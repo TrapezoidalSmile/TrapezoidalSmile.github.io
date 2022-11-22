@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/lib/three/package.json</loc>
+    <loc>http://example.com/lib/three/renovate.json</loc>
     
     <lastmod>2022-11-19</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/lib/three/renovate.json</loc>
+    <loc>http://example.com/lib/three/package.json</loc>
     
     <lastmod>2022-11-19</lastmod>
     
